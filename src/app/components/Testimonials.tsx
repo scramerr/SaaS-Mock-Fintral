@@ -5,13 +5,13 @@ const testimonials = [
   {
     name: "Emily Zhang",
     title: "Product Designer",
-    quote: "FluxPay transformed our billing system. The UI is stunning and the automation features are game-changers!",
+    quote: "Fintral transformed our billing system. The UI is stunning and the automation features are game-changers!",
     avatar: "/avatars/person1.jpg"
   },
   {
     name: "Jason Lee",
     title: "Founder, Paylio",
-    quote: "I’ve tried tons of payment platforms — nothing feels as smooth and polished as FluxPay. Super impressed.",
+    quote: "I’ve tried tons of payment platforms — nothing feels as smooth and polished as Fintral. Super impressed.",
     avatar: "/avatars/person2.jpg"
   },
   {
@@ -46,7 +46,7 @@ function Testimonials() {
               whileInView={{ opacity: 1, y: 0 }}
               transition={{ delay: i * 0.2, duration: 0.5 }}
               viewport={{ once: true }}
-              className="cursor-pointer bg-white/5 backdrop-blur-md border border-white/10 p-6 rounded-2xl shadow-md text-left space-y-4 hover:shadow-purple-500/10 transition-all"
+              className="bg-white/5 backdrop-blur-md border border-white/10 p-6 rounded-2xl shadow-md text-left space-y-4 hover:shadow-purple-500/10 transition-all"
             >
               <div className="flex items-center gap-4">
                 <img

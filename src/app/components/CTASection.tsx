@@ -27,7 +27,7 @@ export default function CTA() {
           viewport={{ once: true }}
           className="text-lg md:text-xl text-zinc-400 max-w-2xl mx-auto"
         >
-          FluxPay helps you automate, manage, and elevate your finance flow—all in a gorgeous, blazing-fast interface.
+          Fintral helps you automate, manage, and elevate your finance flow—all in a gorgeous, blazing-fast interface.
         </motion.p>
 
         <motion.div

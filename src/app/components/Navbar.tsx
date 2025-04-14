@@ -79,9 +79,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto flex items-center justify-between">
         {/* Logo */}
         <a href="#" onClick={(e) => handleScrollTo(e, "#hero")}>
-          <span className="text-xl font-bold text-white tracking-tight cursor-pointer">
-            Flux<span className="text-purple-500">Pay</span>
-          </span>
+            <span className="text-purple-500">Fintral</span>
         </a>
 
         {/* Desktop Nav */}

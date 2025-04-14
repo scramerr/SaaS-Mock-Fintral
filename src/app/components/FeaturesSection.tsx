@@ -40,7 +40,7 @@ export default function FeaturesSection() {
                     viewport={{ once: true }}
                     className="text-3xl md:text-4xl font-bold bg-gradient-to-r from-purple-500 via-pink-500 to-blue-500 text-transparent bg-clip-text"
                 >
-                    Why Choose FluxPay?
+                    Why Choose Fintral?
                 </motion.h2>
 
                 <div className="mt-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">

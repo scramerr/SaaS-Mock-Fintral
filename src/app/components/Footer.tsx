@@ -14,7 +14,7 @@ function Footer() {
           viewport={{ once: true }}
           className="text-3xl font-semibold"
         >
-          Start your journey with FluxPay today
+          Start your journey with Fintral today
         </motion.h3>
 
         {/* Social Icons */}

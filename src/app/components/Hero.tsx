@@ -25,7 +25,7 @@ export default function Hero() {
           >
             Power Your Finances with <br />
             <span className="text-white drop-shadow-[0_1px_15px_rgba(255,255,255,0.1)]">
-              Fluxpay ⚡
+              Fintral ⚡
             </span>
           </motion.h1>
 
